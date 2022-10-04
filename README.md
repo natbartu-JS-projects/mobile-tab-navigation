@@ -6,4 +6,8 @@ The Mobile Tab Application is based on a mobile UI style that will display the o
 
 The library used for display icons on application is from [font awesome](https://cdnjs.com/libraries/font-awesome).
 
+## Images Used
+
+The images used on the application is from [Unsplash](https://unsplash.com).
+
 ## Application Preview
