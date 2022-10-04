@@ -11,3 +11,5 @@ The library used for display icons on application is from [font awesome](https:/
 The images used on the application is from [Unsplash](https://unsplash.com).
 
 ## Application Preview
+
+![gif preview](assets/mobile-tab-navigation.gif)
